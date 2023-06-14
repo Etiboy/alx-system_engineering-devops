@@ -1,1 +1,3 @@
-This is my readme markdown about shell basics 
+#Shell, basics
+
+-0 - Write a script that prints the absolute path name of the current working directory.

@@ -1,1 +1,3 @@
-This is my readme markdown about shell permissions
+#Shell, permissions
+
+-0 - Create a script that switches the current user to the user betty.
